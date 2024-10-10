@@ -16,7 +16,7 @@ No usage of the software in this repository or other repositories are permitted.
 
 ## Disclaimer
 
-This project is for internal commerical use. Please respect the terms outlined in the license above.
+This project is for internal commercial use only. Please respect the terms outlined in the license above.
 
 Desigital Ltd\
 Registered in England & Wales, no. 14702243.\
